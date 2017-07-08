@@ -1,5 +1,7 @@
 # Test task
 
+**PHP 7.1**
+
 Run `composer install` and `php artisan migrate` inside `receiver` and `sender` dirs.
 
 Copy `.env.example` to `.env` and replace needed parameters
